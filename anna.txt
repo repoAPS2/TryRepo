@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Hello new repo!!
+
+Created ssh for apilipenko74
+Clone try repo into mac
+
+try push into two repository
+=======
+Hello new repo!!
+>>>>>>> 56043857627231e4bc4f14aba66f89b18d4a1a38
